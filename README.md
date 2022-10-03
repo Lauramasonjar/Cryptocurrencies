@@ -102,7 +102,7 @@ Visualizing the clusters helps to graphically understand how they are arranged.
   - As we can see form the graph, cryptocurrency is clustered in 4 groups with similar characteristics. 
   - When hover over the specific element the graph shows label with Coin Name and its Algorithm. 
 
-![Cryptocurrencies](3dplot)
+![Cryptocurrencies](https://github.com/Lauramasonjar/Cryptocurrencies/blob/main/Images/3D_plot.png)
 
 
 - **2D visualization and correlation between Total Coins Supply and Total Coins Mined**
@@ -113,7 +113,7 @@ Visualizing the clusters helps to graphically understand how they are arranged.
   - Different colors indicate different classes that crypto coins belong to. 
   - When hover over the specific element the graph shows label with Coin Name and its Class.
 
-![Cryptocurrencies](havplot)
+![Cryptocurrencies](https://github.com/Lauramasonjar/Cryptocurrencies/blob/main/Images/havplot_scatter_plot.png)
 
 
 
@@ -124,4 +124,4 @@ Visualizing the clusters helps to graphically understand how they are arranged.
   - This interactive table is ideal to see what tradable coins are on the market,
   - Algorithms used and can be easily sorted by in ascending or descending order.
 
-![Cryptocurrencies](interactive table)
+![Cryptocurrencies](https://github.com/Lauramasonjar/Cryptocurrencies/blob/main/Images/Interatctive_table.png)
